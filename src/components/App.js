@@ -6,7 +6,7 @@ const App = () => {
   const About = () => (
     <>
       <h1>About</h1>
-      <p>This is a sample react router project</p>
+      <p>This is a sample React Router program.</p>
     </>
   );
   const Home = () => <h1>Welcome to my website!</h1>;
